@@ -1,6 +1,6 @@
 # Security Policy
 
-Tokens United LLP (United Kingdom) builds and operates production systems for the businesses we partner with. We take the security of those systems — and the trust placed in them — seriously. This document explains how to report a vulnerability responsibly and what you can expect from us in return.
+Tokens United LLP (United Kingdom) builds and operates production systems that real businesses run on. Security isn't something we bolt on at the end — it's how we build. This page explains how to report a vulnerability and exactly what to expect from us in return.
 
 ## Reporting a vulnerability
 

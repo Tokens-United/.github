@@ -8,8 +8,7 @@
 
 ### Build Without Limits.
 
-**Your long-term technology partner.**
-From company formation to scalable custom systems — we handle everything technical so your business can grow without limits.
+**One technology partner — from incorporating the company to the platform that scales it.**
 
 <br>
 
@@ -22,34 +21,30 @@ From company formation to scalable custom systems — we handle everything techn
 
 ---
 
-## Who we are
-
-Tokens United is a full-stack technology partner that helps startups and growing businesses **build, launch, and scale** secure, high-performance digital products — handling everything from core infrastructure to long-term technical growth.
-
-We're not a project shop you hire once and lose. We become the technology arm of your business: the team that incorporates the company, builds the platform, automates the operations, and keeps it all running as you grow.
+Most founders stitch together a web agency, a dev shop, a formation service, and a designer — then spend their time managing the seams between them. Tokens United is all of it, under one roof, for the long run. We incorporate the company, build the product, automate the operations, and keep it running as you grow. You build the business; we handle everything technical.
 
 ## What we do
 
-| | Service | What it means |
+| | Service | What you get |
 |---|---|---|
-| 🛠️ | **Custom Development** | Web apps, business tools, and platforms — built for how you actually operate. |
-| 🏛️ | **Company Formation** | Launch your business with the right legal and corporate foundation, in the right jurisdiction. |
-| 🎨 | **Branding & Design** | A cohesive visual identity that resonates — from logo to full design system. |
-| 📣 | **Social Media Management** | A consistent, professional presence across every channel. |
-| 🤖 | **AI & Automation** | Intelligent systems that do the repetitive work for you. |
-| 🤝 | **Ongoing Support** | A reliable long-term partnership — not just a one-time delivery. |
+| 🛠️ | **Custom Development** | Pure-code web apps, internal tools, and platforms — built around how you actually work, not forced into a template. Fast, secure, and built to scale. |
+| 🏛️ | **Company Formation** | We register your company in the UK or one of 5+ jurisdictions — structure, paperwork, and the right legal foundation, handled end to end. |
+| 🎨 | **Branding & Design** | Logo, identity, tone of voice, and a full design system — a brand that looks like it belongs at the top of your market. |
+| 📣 | **Social Media Management** | A consistent, on-brand presence across your channels, planned and run for you. |
+| 🤖 | **AI & Automation** | Automate the repetitive work — internal tools and AI that give your team back the hours they lose to manual tasks. |
+| 🤝 | **Ongoing Support** | We stay on after launch — monitoring, fixes, and new features. A partner you keep, not a ticket that closes. |
 
-## How we work
+## How an engagement runs
 
 ```
 Discover  →  Formation  →  Design  →  Build  →  Launch  →  Scale & Support
 ```
 
-One partner across the whole lifecycle. Strategy and legal structure up front, engineering in the middle, and continuous support after launch — so you never have to re-explain your business to a new vendor.
+One team across the whole lifecycle — so you never re-explain your business to a new vendor halfway through. Strategy and legal structure up front, engineering in the middle, and someone who already knows your system after launch.
 
-## Our stack
+## How we build
 
-We build on a modern, secure, production-grade foundation:
+The same foundation we use on our own platform: production-grade, secure by default, and built to outlast a single release.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -59,13 +54,13 @@ We build on a modern, secure, production-grade foundation:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Session-based auth, role-based access control, audited actions, and human-approved AI — security and correctness over shortcuts.
+Session-based authentication, role-based access control, audited actions, and AI that ships only with a human's sign-off. We choose correctness over shortcuts — because you're the one who has to live with the system.
 
 ## Work with us
 
-We take on a **limited number of partners each quarter** so every client gets senior attention.
+We take on a limited number of partners each quarter, so the people who build your product are the ones who answer when you call.
 
-→ **[Start a conversation](https://www.tokensunited.com)** &nbsp;·&nbsp; **[hello@tokensunited.com](mailto:hello@tokensunited.com)**
+→ **[Tell us what you're building](https://www.tokensunited.com)** &nbsp;·&nbsp; **[hello@tokensunited.com](mailto:hello@tokensunited.com)**
 
 <div align="center">
 
