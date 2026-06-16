@@ -1,0 +1,76 @@
+name: Feature request
+description: Suggest an idea or improvement for a Tokens United platform.
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement. Tell us about the problem you're
+        trying to solve and what you'd like to see — the clearer the motivation,
+        the easier it is for us to prioritise.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / motivation
+      description: What problem does this solve? Why is it needed?
+      placeholder: I'm always frustrated when '...' because '...'.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed solution
+      description: Describe the solution or behaviour you'd like.
+      placeholder: I'd like '...' to work like '...'.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any alternative solutions or workarounds you've considered.
+      placeholder: I also thought about '...', but '...'.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part of the platform does this relate to?
+      options:
+        - Backend / Django
+        - Frontend / Next.js
+        - API
+        - Auth & Permissions
+        - Billing
+        - AI / Automation
+        - Infrastructure / DevOps
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: who-benefits
+    attributes:
+      label: Who benefits
+      description: Who is the primary beneficiary of this change?
+      options:
+        - Clients/Customers
+        - Internal team
+        - Developers
+        - Everyone
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched existing issues and this feature has not already been requested.
+          required: true

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & Support
+    url: https://www.tokensunited.com
+    about: Need help using a Tokens United platform? Contact our support team at support@tokensunited.com.
+  - name: Security Vulnerability
+    url: https://github.com/Tokens-United/.github/security/policy
+    about: Please report security vulnerabilities privately via SECURITY.md or email security@tokensunited.com. Do not open a public issue.
+  - name: General enquiries
+    url: mailto:hello@tokensunited.com
+    about: For general, non-technical enquiries, email us at hello@tokensunited.com.
